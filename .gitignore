@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/UE_MotMatch/UE_MotMatch.sln
+/UE_MotMatch/Saved/Logs
+/UE_MotMatch/Intermediate
+/UE_MotMatch/.vs/UE_MotMatch/v16
