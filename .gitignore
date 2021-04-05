@@ -7,5 +7,6 @@
 /UE_MotMatch/Intermediate
 /UE_MotMatch/.vs/UE_MotMatch/v16
 /UE_MotMatch/Saved
-/UE_MotMatch/Plugins/MotionMatching
-/UE_MotMatch/Binaries/Win64
+/UE_MotMatch/Binaries
+/UE_MotMatch/Plugins/MotionMatching/Intermediate
+/UE_MotMatch/Plugins/MotionMatching/Binaries
